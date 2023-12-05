@@ -1,6 +1,6 @@
 # About Me:
 - 👋 Hi, I am Kaushik. 
-- 👀 I’m interested in Machine Learning. 
+- 👀 I’m currently leaning Deep learning. 
 - 🌱 I’m currently learning computer science and artificial intelligence
 - 📫 reach me at kaushik.kesanapalli@gmail.com
 ## 🌐 Socials:
