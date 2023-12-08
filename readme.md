@@ -1,5 +1,5 @@
 # About Me:
-- 👋 Hi, I am Kaushik. 
+- 👋 Hi, I am Sri Kaushik Kesanapalli. 
 - 👀 I’m currently leaning Deep learning. 
 - 🌱 I’m currently learning computer science and artificial intelligence
 - 📫 reach me at kaushik.kesanapalli@gmail.com
