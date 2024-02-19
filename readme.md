@@ -1,8 +1,7 @@
 # About Me:
 - 👋 Hi, I am Sri Kaushik Kesanapalli. 
 - 👀 I’m currently leaning Deep learning. 
-- 🌱 I’m currently learning computer science and artificial intelligence
-- 📫 reach me at kaushik.kesanapalli@gmail.com
+- 📫 Reach me at kaushik.kesanapalli@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sri-Kaushik-Kesanapalli) 
