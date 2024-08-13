@@ -1,8 +1,5 @@
 # About Me:
-- 👋 Hi, I am Sri Kaushik Kesanapalli.
-- I am a Member and Mentor @ACM, Amritapuri
-- 👀 I’m currently leaning Deep learning. 
-- 📫 Reach me at kaushik.kesanapalli@gmail.com
+Hi, I am Sri Kaushik Kesanapalli, Third year undergrad at Amrita Viswa Vidyapeetham, Amritapuri. I am a Member and Mentor @ACM, Amritapuri.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sri-Kaushik-Kesanapalli) 
