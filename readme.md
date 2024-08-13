@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Kaushik a third-year undergrad at Amrita Viswa Vidyapeetham, Amritampuri.<br>I'm working on DL and LLM's.
+- I'm Kaushik a third-year undergrad at Amrita Viswa Vidyapeetham, Amritampuri.<br>
+- I'm working on DL and LLM's.
 
 
 ## 🌐 Socials:
