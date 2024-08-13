@@ -1,5 +1,6 @@
 # About Me:
-- 👋 Hi, I am Sri Kaushik Kesanapalli. 
+- 👋 Hi, I am Sri Kaushik Kesanapalli.
+- I am a Member and Mentor @ACM, Amritapuri
 - 👀 I’m currently leaning Deep learning. 
 - 📫 Reach me at kaushik.kesanapalli@gmail.com
 
