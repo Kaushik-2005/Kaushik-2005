@@ -1,6 +1,6 @@
 # 💫 About Me:
-- I'm Kaushik a third-year undergrad at Amrita Vishwa Vidyapeetham, Amritapuri.<br>
-- I'm working on DL and LLM's.
+- I'm Kaushik, a final year undergrad at Amrita Vishwa Vidyapeetham, Amritapuri.<br>
+- I'm working on NLP.
 
 
 ## 🌐 Socials:
@@ -17,3 +17,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Kaushik-2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
