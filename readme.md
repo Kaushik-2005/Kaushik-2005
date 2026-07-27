@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on NLP<br>👯 I’m looking to collaborate on LLMs, RAG, and NLP projects.<br>🤝 I’m looking for help with Improving speech-to-text for low-resource languages.<br>
+- Hi, Kaushik here.
+- Ex SE Intern @Amazon (Jan - June, 26)
+- Currently working on web dev
+- Reading about Inference Engineering
 
 
 ## 🌐 Socials:
