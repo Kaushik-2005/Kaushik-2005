@@ -1,6 +1,9 @@
 # 💫 About Me:
 - Hi, Kaushik here.
 - Ex SE Intern @Amazon (Jan - June, 26)
-- Currently working on web dev
-- Reading about Inference Engineering
 - Reach out to me at kaushik.kesanapalli@gmail.com
+
+### What am i doing right now?
+- Working on this https://s7ik4u5hik.vercel.app/
+- Reading https://www.baseten.co/inference-engineering/
+
