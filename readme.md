@@ -4,6 +4,6 @@
 - Reach out to me at kaushik.kesanapalli@gmail.com
 
 ### What am i doing right now?
-- Working on this https://s7ik4u5hik.vercel.app/
+- Working on this https://explore-rag.vercel.app/
 - Reading https://www.baseten.co/inference-engineering/
 
