@@ -1,6 +1,7 @@
 # 💫 About Me:
 - Hi, Kaushik here.
 - Ex SE Intern @Amazon (Jan - June, 26)
+- Looking for opportunities
 - Reach out to me at kaushik.kesanapalli@gmail.com
 
 ### What am i doing right now?
