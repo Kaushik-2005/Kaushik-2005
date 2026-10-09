@@ -5,6 +5,6 @@
 - Reach out to me at kaushik.kesanapalli@gmail.com
 - https://kaushikhere.vercel.app/
 ### What am I doing right now?
-- Working on this https://explore-rag.vercel.app/
-- Reading https://www.baseten.co/inference-engineering/
-- Building a multi-agent system that will monitor logs, metrics, traces, and deployment failures.
+- Working on this https://explore-rag.vercel.app/ & https://learn-how-to-build-rag.vercel.app/
+- Reading Inference
+- Learning some Go and revising AI
