@@ -3,7 +3,8 @@
 - Ex Intern @Amazon (Jan - June 26)
 - Looking for opportunities
 - Reach out to me at kaushik.kesanapalli@gmail.com
-- https://kaushikhere.vercel.app/
+
+
 ### What am I doing right now?
 - Working on this https://explore-rag.vercel.app/ & https://learn-how-to-build-rag.vercel.app/
 - Reading Inference
