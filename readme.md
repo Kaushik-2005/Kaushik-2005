@@ -6,6 +6,5 @@
 
 
 ### What am I doing right now?
-- Working on this https://explore-rag.vercel.app/ & https://learn-how-to-build-rag.vercel.app/
-- Reading Inference
-- Learning some Go and revising AI
+- Reading about Inference
+- Learning Rust and Go
