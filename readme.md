@@ -8,3 +8,6 @@
 ### What am I doing right now?
 - Reading about Inference
 - Learning Rust and Go
+
+
+Resume: https://drive.google.com/file/d/1YfwhqkZ1hVZ3NSf911_x_fBEYValZqqg/view?usp=drive_link
