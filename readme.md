@@ -6,7 +6,6 @@
 
 
 ### What am I doing right now?
-- Reading about Inference
 - Learning Rust and Go
 
 
