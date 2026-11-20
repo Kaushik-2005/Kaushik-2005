@@ -8,11 +8,12 @@ Currently looking for **Software Engineer and AI/ML Engineer** opportunities.
 ## Experience
 
 ### Application Engineer Intern | Amazon
-**Jan 2026 – Jun 2026 | Bengaluru**
+**Jan 2026 – Jun 2026 | Bengaluru, Karnataka**
 
-- Built production automation using Python, TypeScript, JSONata, XML, and AWS for catalog attribute updates across global marketplaces.
-- Automated workflows spanning **160+ product attributes**, scaling capacity from **500 to 10,000 items** and reducing execution time from **3 days to 4 hours**.
-- Resolved a legacy production issue, reducing approximately **10 support tickets per week** during on-call.
+- Developed a catalog automation pipeline using **Python, TypeScript, JSONata, XML, and AWS**, supporting **1M+ daily executions** across global marketplaces.
+- Automated validation and updates for **160+ product attributes**, scaling batch processing capacity **20x**, from **500 to 10,000 items**.
+- Reduced end-to-end execution time from **3 days to 4 hours**, a **94.4% reduction**.
+- Debugged and resolved production failures across **2 internal services**, addressing issues associated with **200+ operational alarms** since March 2025.
 
 ### Research Intern – Speech AI and NLP | Amrita WNA
 **Jan 2025 – Dec 2025 | Kollam**
