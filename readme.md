@@ -30,9 +30,8 @@ Currently looking for **Software Engineer and AI/ML Engineer** opportunities.
 
 ## What I'm Doing Right Now
 
-- Learning **Rust and Go**.
+- Learning **Rust and AI Inference**.
 - Exploring distributed systems and backend engineering.
-- Building projects involving AI agents and LLMs.
 
 ## Contact
 
